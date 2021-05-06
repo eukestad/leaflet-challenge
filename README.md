@@ -1,7 +1,8 @@
 # USGS Earthquake Visualization
 Use Leaflet to visualize USGS worldwide weekly earthquake data.
 
-![map screenshot](Leaflet-Step-1/images/map.png)
+![image](https://user-images.githubusercontent.com/69314608/117250972-a02a5680-ae09-11eb-9d94-7ab812d64f35.png)
+
 
 ## Status
 _finished_

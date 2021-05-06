@@ -3,11 +3,6 @@ Use Leaflet to visualize USGS worldwide weekly earthquake data.
 
 ![map screenshot](Leaflet-Step-1/images/map.png)
 
-## Files in the Repo
-
-- Leaflet-Step-1 - Basic visualization of earthquakes on a satellite map
-
-
 ## Status
 _finished_
 
